@@ -1,4 +1,4 @@
-#Basic integration ESLINT, Prettier, Airbnb Style Guide with VS Code.
+# Basic integration ESLINT, Prettier, Airbnb Style Guide with VS Code.
 
 1. Install ESLint and Prettier VS Code extensions
 2. npm init -y
